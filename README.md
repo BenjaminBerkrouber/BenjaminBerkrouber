@@ -4,13 +4,12 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 
 ## Mes projets récents
 
-- Projet 1 : une application de suivi des activités physique, développée avec React Native et utilisant l'apprentissage automatique pour prédire les performances de l'utilisateur.
-- Projet 2 : un site Web de commerce électronique, développé avec React et utilisant un backend basé sur l'API GraphQL.
+- Projet 1 : Un jeu vidéo en java StuckWin, avec une interface graphique
+- Projet 2 : un site Web de management de stock en Flask, SQL, HTML, CSS
 
 ## Réalisations
 
-- Gagnant du concours de développement organisé par l'université XYZ en 2020
-- Membre de l'équipe de développement qui a remporté le prix de la meilleure application au hackathon ABC en 2021
+- 
 
 ## Contact
 
