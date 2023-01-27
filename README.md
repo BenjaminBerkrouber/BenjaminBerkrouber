@@ -14,5 +14,5 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 ## Contact
 
 - Site Web personnel : [mon-site.com](https://mon-site.com)
-- LinkedIn : [mon-profil](https://linkedin.com/in/mon-profil)
-- Twitter : [@mon-compte](https://twitter.com/mon-compte)
+- LinkedIn : [mon-profil](https://linkedin.com/in/benjamin-berkrouber-9b7912235)
+- Twitter : [@benjami_bkr](https://twitter.com/benjamin_bkr)
