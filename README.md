@@ -2,10 +2,16 @@
 
 Je suis un développeur passionné de nouvelles technologies. Mes centres d'intérêt incluent le développement Web, le développement mobile et l'apprentissage automatique.
 
-## Mes projets récents
+## Mes projets
 
-- Projet 1 : Un jeu vidéo en java StuckWin, avec une interface graphique
-- Projet 2 : un site Web de management de stock en Flask, SQL, HTML, CSS
+- Projet Scolaire 1 : [Java] StuckWin, jeu vidéo de type plateau, SAE 101-202
+- Projet Scolaire 2 : [SQL][Flask][HTML,CSS] Site web, system de gestion de stock, Projet Base de données 
+- Projet Scolaire 3 : [SQL][Flask][HTML,CSS][BASHSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS] Site web imobilié, SAE 103-104
+- Projet Scolaire 3 : [SQL][FLask][HTML,CSS] Boutique en ligne, SAE 203-204-205
+- Projet Scolaire 4 : [Java][JavaFX] Coridor, jeu vidéo de type plateau, SAE 201-202-206
+
+- Projet Personelle 1 : [SQl][PHP][HTML,CSS] QuestionTime, site proposant des dilème et ou question.
+- Projet Personnelle 2 : [] EN recherche
 
 ## Réalisations
 
