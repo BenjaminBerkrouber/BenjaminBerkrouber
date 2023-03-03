@@ -10,7 +10,7 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 - Projet Scolaire 4 : [SQL][FLask][HTML,CSS] Boutique en ligne, SAE 203-204-205
 - Projet Scolaire 5 : [Java][JavaFX] Coridor, jeu vidéo de type plateau, SAE 201-202-206
 
-- Projet Personelle 1 : [SQl][PHP][HTML,CSS] QuestionTime, site proposant des dilème et ou question.
+- Projet Personelle 1 : [SQL][PHP][HTML,CSS] QuestionTime, site proposant des dilème et ou question.
 - Projet Personnelle 2 : [] EN recherche
 
 ## Réalisations
