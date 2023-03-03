@@ -5,7 +5,7 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 ## Mes projets
 
 ### [StuckWin](https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2)
-#### Description 
+###### Description 
 - jeu vidéo de type plateau, SAE 101-202
 #### Ressource utilisé
 - <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="40" height="40" /> StuckWin, 
