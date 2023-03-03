@@ -8,7 +8,7 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 ##### Description 
 - jeu vidéo de type plateau, SAE 101-202
 ##### Ressource utilisé
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="40" height="40" /> StuckWin, 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 
