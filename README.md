@@ -7,6 +7,7 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 - Projet Scolaire 1 : [Java] StuckWin, jeu vidéo de type plateau, SAE 101-202
 - Projet Scolaire 2 : [SQL][Flask][HTML,CSS] Site web, system de gestion de stock, Projet Base de données 
 - Projet Scolaire 3 : [SQL][Flask][HTML,CSS][BASHS] Site web imobilié, SAE 103-104
+    && Installation d'une VM
 - Projet Scolaire 4 : [SQL][FLask][HTML,CSS] Boutique en ligne, SAE 203-204-205
 - Projet Scolaire 5 : [Java][JavaFX] Coridor, jeu vidéo de type plateau, SAE 201-202-206
 
