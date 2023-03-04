@@ -27,10 +27,15 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-    | Site web, system de gestion de stock, Projet Base de données
+    |  Site web imobilié, SAE 103
 </p>
 
-PS2 : [SQL][Flask][HTML,CSS] Site web, system de gestion de stock, Projet Base de données 
+- <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">VirtualMachine </a></strong> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
+    | jeu vidéo de type plateau, SAE 101-202 Ressource utilisé 
+</p>
+
+
 - PS3 : [SQL][Flask][HTML,CSS][BASHS] Site web imobilié, SAE 103-104
     && Installation d'une VM
 - PS4 : [SQL][FLask][HTML,CSS] Boutique en ligne, SAE 203-204-205
