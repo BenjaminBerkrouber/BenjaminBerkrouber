@@ -7,7 +7,21 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 - <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">StuckWin : </a></strong> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="20" height="20" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-    jeu vidéo de type plateau, SAE 101-202 Ressource utilisé 
+    | jeu vidéo de type plateau, SAE 101-202 Ressource utilisé 
+</p>
+
+- <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">WebStock : </a></strong> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
+    | Site web, system de gestion de stock, Projet Base de données 
+</p>
+
+- <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">WebImobilié : </a></strong> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="20" height="20" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
+    | Site web, system de gestion de stock, Projet Base de données
 </p>
 
 PS2 : [SQL][Flask][HTML,CSS] Site web, system de gestion de stock, Projet Base de données 
