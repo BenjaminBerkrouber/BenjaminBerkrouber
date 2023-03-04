@@ -17,7 +17,7 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-    | Site web, system de gestion de stock, Projet Base de données 
+    | Site web, system de gestion de stock, Projet Base de données, Projet Scolaire
 </p>
 
 - <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">WebImobilié : </a></strong>
@@ -62,13 +62,11 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 </p>
 
 
-
-- PPersonelle 1 : [SQL][PHP][HTML,CSS] QuestionTime, site proposant des dilème et ou question.
-- PPersonnelle 2 : [] EN recherche
-
 ## Work from langage
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="20" height="20"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     
