@@ -5,8 +5,8 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 ## Mes projets
 
 #### [StuckWin](https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2)
-<p> Description__ : jeu vidéo de type plateau, SAE 101-202 </p>
-<p> Ressource utilisé <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+- __Description__ : jeu vidéo de type plateau, SAE 101-202
+<p> Ressource utilisé <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
 </p>
 
 PS2 : [SQL][Flask][HTML,CSS] Site web, system de gestion de stock, Projet Base de données 
