@@ -63,10 +63,12 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 
 
 ## Work from langage
+
+<p>
     
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     
@@ -86,6 +88,8 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     
+</p>
+
 ## Contact
 
 - Site Web personnel : [mon-site.com](https://mon-site.com)
