@@ -30,7 +30,7 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
     |  Site web imobilié, SAE 103
 </p>
 
-- <p><strong> <a href="[https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2](https://github.com/BenjaminBerkrouber/VM-ubuntu)">VirtualMachine </a></strong> 
+- <p><strong> <a href="https://github.com/BenjaminBerkrouber/VM-ubuntu">VirtualMachine </a></strong> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
     | Guide d'installation d'une machine viruel linux, debian. SAE 104
 </p>
