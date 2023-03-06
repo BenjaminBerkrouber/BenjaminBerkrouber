@@ -45,7 +45,7 @@ Je suis un développeur passionné de nouvelles technologies. Mes centres d'int�
     |  Boutique en ligne, plus gestion de projet complet
 </p>
 
-- <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">Coridor : </a></strong> 
+- <p><strong> <a href="https://github.com/Clonestriker/SAE_1-2-6/tree/master">Coridor : </a></strong> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="20" height="20" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
     | jeu vidéo de type plateau, SAE 201-202
