@@ -5,13 +5,6 @@ Salut, je suis un développeur passionné par le développement Web et les nouve
 ## Mes projets
 
 ### Web
-#### Python - flask
-- <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">Web Boutique-cable: </a></strong>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-    |  Boutique en ligne, plus gestion de projet complet
-</p>
 
 #### PHP
 - <p><strong> <a href="https://github.com/BenjaminBerkrouber/QuestionTime">QuestionTime : </a></strong> 
