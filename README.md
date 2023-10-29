@@ -9,14 +9,12 @@ Salut, je suis un développeur passionné par le développement Web et les nouve
 #### PHP
 - <p><strong> <a href="https://github.com/BenjaminBerkrouber/QuestionTime">QuestionTime : </a></strong> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="20" height="20"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
     | Site-Web, dilème, Projet Personnelle
 </p>
 
 - <p><strong> <a href="https://github.com/BenjaminBerkrouber/QuestionTime">Le gîte du marais : </a></strong> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="20" height="20"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
     | Site-Web, gestion de Gite, Projet Personnelle
 </p>
@@ -36,13 +34,11 @@ Salut, je suis un développeur passionné par le développement Web et les nouve
 ### Java 
 - <p><strong> <a href="https://github.com/BenjaminBerkrouber/StuckWin-SAE1.01.2">StuckWin : </a></strong> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="20" height="20" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
     | jeu vidéo de type plateau, SAE 101-202
 </p>
 
 - <p><strong> <a href="https://github.com/Clonestriker/SAE_1-2-6/tree/master">Coridor : </a></strong> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" alt="bootstrap" width="20" height="20" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
     | jeu vidéo de type plateau, SAE 201-202
 </p>
 
