@@ -21,14 +21,15 @@ Salut, je suis un développeur passionné par le développement Web et les nouve
 
 ### C
 
-- <p><strong><a href="https://github.com/BenjaminBerkrouber/VM-ubuntu">42 - Piscine</a></strong>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-    | Un intense bootcamp de programmation de 4 semaines à l'école 42, centré sur le langage C et l'environnement Linux.
-</p>
 
 - <p><strong><a href="https://github.com/BenjaminBerkrouber/VM-ubuntu">42 - Cursus</a></strong>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
     | 42 est une expérience immersive du développement logiciel, couvrant de multiples langages et technologies.
+</p>
+
+- <p><strong><a href="https://github.com/BenjaminBerkrouber/42-Piscine">42 - Piscine</a></strong>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
+    | Un intense bootcamp de programmation de 4 semaines à l'école 42, centré sur le langage C et l'environnement Linux.
 </p>
 
 ### Java 
